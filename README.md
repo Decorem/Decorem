@@ -2,6 +2,26 @@
 
 **`Casual Genshin Pleier`**
 
+<div align="center">
+  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20Visitor!;祝您今天愉快!&center=true&size=27" />
+    </a>
+  </div>
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@master/assets/images/coffee.gif" /><br>
+
+  <!-- profile logo 个人资料徽标 -->
+  
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
 I'm an 9-5 office worker. I played lots of different games genre (soul-like, MOBA, RPG,...). Recently, I just finished Dredge, the fishing game.This github is created to join "special" Genshin Impact discord server and github groups. I would be very grateful of your allowing me to join. I have no idea how coding works so worry not of me stealing and reselling stuff. This is created by watching a youtube video. Thank you very much.
 
 ## 🌐 Socials:
