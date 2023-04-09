@@ -22,7 +22,10 @@
 
 </div>
 
-I'm an 9-5 office worker. I played lots of different games genre (soul-like, MOBA, RPG,...). Recently, I just finished Dredge, the fishing game.This github is created to join "special" Genshin Impact discord server and github groups. I would be very grateful of your allowing me to join. I have no idea how coding works so worry not of me stealing and reselling stuff. This is created by watching a youtube video. Thank you very much.
+I'm an 9-5 office worker. I played lots of different games genre (soul-like, MOBA, RPG,...). Recently, I just finished Dredge, the fishing game.This github is created to join "special" Genshin Impact discord server and github groups. I would be very grateful of your allowing me to join. I have no idea how coding works so worry not of me stealing and reselling stuff. This is created by watching a youtube video by ForrestKnight. Thank you very much.
+Custom profile guide video:
+<a href="https://www.youtube.com/watch?v=9A8sQZDRn5o">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/371200162850406401) 
