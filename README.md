@@ -14,12 +14,8 @@
   <!-- knock code picture-->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@master/assets/images/coffee.gif" /><br>
 
-  <!-- profile logo 个人资料徽标 -->
+  <!-- profile logo -->
   
-
-  <!-- Snake Code Contribution Map-->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
 </div>
 
 I'm an 9-5 office worker. I played lots of different games genre (soul-like, MOBA, RPG,...). Recently, I just finished Dredge, the fishing game.This github is created to join "special" Genshin Impact discord server and github groups. I would be very grateful of your allowing me to join. Thank you very much.
