@@ -20,7 +20,7 @@
 
 I'm an 9-5 office worker. I played lots of different games genre (soul-like, MOBA, RPG,...). Recently, I just finished Dredge, the fishing game.This github is created to join "special" Genshin Impact discord server and github groups. I would be very grateful of your allowing me to join. Thank you very much.
 </div>
-Custom profile guide video:
+I made this profile using this custom profile guide video:
 <a href="https://www.youtube.com/watch?v=9A8sQZDRn5o">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  
 
